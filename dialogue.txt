@@ -5,3 +5,4 @@ Marius241 : On va créée une branche appelé : branche_test_texte.
 Abellus: crée la branche.
 Marius241 : Ok
 ============================ BRANCHE ==========================================================================
+Abellus : Excellent pour la création de la branche. YES!!!!
