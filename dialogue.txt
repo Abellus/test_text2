@@ -4,6 +4,8 @@ Abellus: Ah Ouais c'est vrai, tu es efficace, c'est bien ca.
 Marius241 : On va créée une branche appelé : branche_test_texte.
 Abellus: crée la branche.
 Marius241 : Ok
+<<<<<<< HEAD
 ============================ BRANCHE ==========================================================================
 Abellus : Excellent pour la création de la branche. YES!!!!
 Marius241:Merci la suite c'est le merge!..
+>>>>>>> 00423b0 (début de la branche)
