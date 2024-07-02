@@ -3,3 +3,4 @@ Marius241: Ca vas bien et toi !? Non pas de quoi c'est normal pour notre amélio
 Abellus: Ah Ouais c'est vrai, tu es efficace, c'est bien ca.
 Marius241 : On va créée une branche appelé : branche_test_texte.
 Abellus: crée la branche.
+Marius241 : Ok
