@@ -1,3 +1,4 @@
 Abellus : Bjr Cmt Vas Tu !? Merci d'avoir crée ce fichier pour notre dialogue.
 Marius241: Ca vas bien et toi !? Non pas de quoi c'est normal pour notre amélioration dans cette technologie.
-Abellus: Ah Ouais c'est vrai, tu es efficace, c'est bien ca
+Abellus: Ah Ouais c'est vrai, tu es efficace, c'est bien ca.
+Marius241 : On va créée une branche appelé : branche_test_texte.
